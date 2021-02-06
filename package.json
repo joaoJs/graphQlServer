@@ -1,0 +1,14 @@
+{
+  "name": "apollo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "apollo-server": "^2.19.2",
+    "axios": "^0.21.1",
+    "graphql": "^15.5.0"
+  }
+}
